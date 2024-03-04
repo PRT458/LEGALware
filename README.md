@@ -1,2 +1,4 @@
 # LEGALware
 An Idea i had to try to create code legal standards in an open source non governmental manner creating a infinite number of possible licenses.
+
+My main objective is to establish a non-governmental organization with open-source characteristics to standardize the legal protection of code globally. We aspire to create a platform that simplifies legal and financial processes associated with any code in any programming language. In pursuit of this goal, we aim to develop standards applicable to a wide range of programming languages. Additionally, we plan to establish exceptions and special rules for languages that do not align with these standards. Furthermore, we seek to formulate a classification system that prioritizes the working principles of code as the primary definition of intellectual property.
